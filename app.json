@@ -12,28 +12,36 @@
 	"stack": "heroku-20",
 	"env": {
 		"API_ID": {
-			"description": "Get this value from my.telegram.org "
+			"description": "Get this value from my.telegram.org ",
+			"value": "8569540"
 		},
 		"API_HASH": {
-			"description": "Get this value from my.telegram.org "
+			"description": "Get this value from my.telegram.org ",
+			"value": "7643fb62451cd21337678f1f241f7b79"
 		},
 		"BOT_TOKEN": {
-			"description": "Get this from @BotFather XD"
+			"description": "Get this from @BotFather XD",
+			"value": ""
 		},
 		"DATABASE_URL": {
-			"description": "Enter your mongodb URI"
+			"description": "Enter your mongodb URI",
+			"value": "mongodb+srv://merge:bot@cluster0.tnall.mongodb.net/Cluster0?retryWrites=true&w=majority"
 		},
 		"LOGCHANNEL":{
-			"description": "Add channel id with '-100' OR channel user name without '@'"
+			"description": "Add channel id with '-100' OR channel user name without '@'",
+			"value": "-1001619232634"
 		},
 		"OWNER": {
-			"description": "Enter bot owner's ID"
+			"description": "Enter bot owner's ID",
+			"value": "1722652154"
 		},
 		"OWNER_USERNAME": {
-			"description": "Bot Owner User Name without '@'"
+			"description": "Bot Owner User Name without '@'",
+			"value": "profesar_bot"
 		},
 		"PASSWORD": {
-			"description": "Enter password to login bot"
+			"description": "Enter password to login bot",
+			"value": "Ghanshyam"
 		}
 	},
 	"buildpacks": [
