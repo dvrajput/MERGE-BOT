@@ -21,7 +21,7 @@
 		},
 		"BOT_TOKEN": {
 			"description": "Get this from @BotFather XD",
-			"value": ""
+			"value": "2083868397:AAGf2mPCYASZt0AC92pk0EISddw7tU-ZGMQ"
 		},
 		"DATABASE_URL": {
 			"description": "Enter your mongodb URI",
